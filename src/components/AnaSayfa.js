@@ -9,6 +9,7 @@ const AnaSayfa = () => {
     <Layout style={{ minHeight: '100vh' }}>
       <HeaderBar />
       <Layout>
+        
        
         <Layout style={{ padding: '0 24px 24px' }}>
           <Content style={{ padding: 24, margin: 0, minHeight: 280 }}>
